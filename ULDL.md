@@ -134,7 +134,7 @@ This repository publicly displays the backtest results of the ULDL quantitative 
 
 ### 3. Equity Curve / 资金曲线
 
-![Equity Curve for 1000BONK](pics/ULDL/BONK/equity_curve_with_drawdown.png)
+![Equity Curve for 1000BONK](pics/ULDL/equity_curve_with_drawdown.png)
 
 ---
 
