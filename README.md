@@ -28,6 +28,7 @@ Below is a list of the strategies we have publicly shared backtest results for. 
 | Strategy Name / 策略名称 | Description / 简要描述 | Detailed Results / 详细结果 |
 | :----------------------- | :----------------------------------------------------------- | :---------------------------------- |
 | **ULDL**                 | A mean-reversion strategy. <br> 一种均值回归策略。 | [**View Details »**](./ULDL.md)     |
+| **Alpha Research**.       | A comprehensive alpha research strategy. <br> 一种综合Alpha Research策略。 |  [**View Details »**](./Alpha_Research.md)
 | *More to come...*        | *更多策略，敬请期待...*                                      |                                     |
 
 ---
