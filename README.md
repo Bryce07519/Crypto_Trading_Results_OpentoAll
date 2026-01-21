@@ -29,7 +29,7 @@ Below is a list of the strategies we have publicly shared backtest results for. 
 | :----------------------- | :----------------------------------------------------------- | :---------------------------------- |
 | **ULDL**                 | A mean-reversion strategy. <br> 一种均值回归策略。 | [**View Details »**](./ULDL.md)     |
 | **Alpha Research**.       | A comprehensive alpha research strategy. <br> 一种综合Alpha Research策略。 |  [**View Details »**](./Alpha_Research.md)
-| ** Stats Binary Option Signals **.       | A stats strategy for binary options on BTC. <br> 一种基于统计模式的二元期权策略。 |  [**View Details »**](./Alpha_Research.md)
+| **Stats Binary Option Signals**.       | A stats strategy for binary options on BTC. <br> 一种基于统计模式的二元期权策略。 |  [**View Details »**](./Binary_BTC.md)
 
 | *More to come...*        | *更多策略，敬请期待...*                                      |                                     |
 
