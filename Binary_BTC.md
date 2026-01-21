@@ -135,9 +135,6 @@ $$
 - 5T-B2 and 5T-B3 fall **below break-even** and are **negative** under the payout scheme.
 
 **Placeholders (Period B, 5T images):**
-- `![Equity Curve — 5T (Period B)](./assets/2022-2026/5T/equity_test_5T.png)`
-- `![Confusion Matrix — 5T (Period B)](./assets/2022-2026/5T/confusion_test_5T.png)`
-- Trades CSV: `./assets/2022-2026/5T/trades_test_5T.csv`
 
 ---
 
